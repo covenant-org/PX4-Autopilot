@@ -95,6 +95,7 @@ px4_add_romfs_files(
 
 	8011_gz_omnicopter
 	9001_gz_x500_depth_lidar_down
+	9002_gz_x500_depth_servo
 
 	10015_gazebo-classic_iris
 	10016_none_iris
